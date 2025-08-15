@@ -58,10 +58,12 @@ The main goal of this project is to:
     scikit-learn for preprocessing and performance metrics
 
 📊 Example Output
-Patient ID	Prediction
-001	0
-002	1
-003	0
+| Patient ID | Prediction |
+|------------|------------|
+| 001        | 0          |
+| 002        | 1          |
+| 003        | 0          |
+
 
 Where:
 
